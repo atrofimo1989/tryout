@@ -1,0 +1,1 @@
+Here is a new text file created with CL (command line) for Git tryout repository
